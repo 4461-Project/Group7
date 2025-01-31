@@ -13,7 +13,7 @@
 ## **Section 1: Introduction**
 Provide an overview of your project, including its purpose, motivation, and significance. Explain why this topic is relevant and what problem it aims to solve.
 
-## **Section 2**
+## **Section 2: Relevant Works**
 Bessi, A., & Ferrara, E. (2016). Social bots distort the 2016 U.S. presidential election online discussion. *First Monday, 21*(11). https://doi.org/10.5210/fm.v21i11.7090  
 
 Ferrara, E., Varol, O., Davis, C., Menczer, F., & Flammini, A. (n.d.). The rise of social bots. *Communications of the ACM, 59*(7), 96–104. https://doi.org/10.1145/2818717  
