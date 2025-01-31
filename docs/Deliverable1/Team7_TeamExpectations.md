@@ -18,9 +18,9 @@ These define what group members expect from one another and what norms they agre
 
 | **Area** | **Principles & Norms**<br><br>All members of the group agree to: |
 | --- | --- |
-| **Communication** |     |
-| **Meetings** |     |
-| **Deadlines** |     |
+| **Communication** | All members agree to communicate any changes or concerns related to the project.    |
+| **Meetings** | All members must attend group meetings in a timely manner and contribute their ideas. If a member is unable to attend , the group must be notified ASAP.    |
+| **Deadlines** | All group members must hand in their portion of tasks in a timely manner. In case of delays, they should notify the group early on.    |
 
 | Care Statement<br><br>Outline here how the team will strive to care for the health of each other and the team as a whole during the project duration: |
 | --- |
