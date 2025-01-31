@@ -8,7 +8,7 @@ Include group members’ preferred and backup choices for communication and list
 | --- | --- | --- | --- | --- |
 |Hyunji Yun |Email     |Discord: skrudnf    |yhj7666@gmail.com     |4163056056     |
 |Peng Qiu   |Email     |Discord: peng1314yyds     |pengqiu12620@gmail.com     |6476712756     |
-|     |     |     |     |     |
+|Sanchita Chowdhury     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
 
@@ -58,6 +58,6 @@ These define what group members expect from one another and what norms they agre
 | --- | --- |
 | If team members cannot add signatures in-person, a group can agree that each member typing their name in the signature section suffices as agreement |     |
 |Hyunji Yun     |Hyunji Yun     |
-|     |     |
-|     |     |
+|Peng Qiu       |Peng Qiu       |
+|Sanchita Chowdhury     |Sanchita Chowdhury     |
 |     |     |
