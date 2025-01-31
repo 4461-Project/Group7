@@ -1,5 +1,3 @@
-Group Charter Template
-
 # Group Members
 
 Include group members’ preferred and backup choices for communication and list groups’ contact information.
