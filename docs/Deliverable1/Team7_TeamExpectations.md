@@ -22,9 +22,7 @@ These define what group members expect from one another and what norms they agre
 | **Communication** | All members agree to communicate any changes or concerns related to the project.    |
 | **Meetings** | All members must attend group meetings in a timely manner and contribute their ideas. If a member is unable to attend , the group must be notified ASAP.    |
 | **Deadlines** | All group members must hand in their portion of tasks in a timely manner. In case of delays, they should notify the group early on.    |
-| **Care Statement** | - Team members support each other and respect each other's schedules and personal situations.
-- Team members communicate promptly, when encountering problems, the team members will help each other.
-- When team members face emergencies (such as time conflicts and personal issues), teammates will understand and flexibly adjust the task schedule. |
+| **Care Statement** | - Team members support each other and respect each other's schedules and personal situations. <br> - Team members communicate promptly, when encountering problems, the team members will help each other. <br> - When team members face emergencies (such as time conflicts and personal issues), teammates will understand and flexibly adjust the task schedule. |
 
 
 | Group Roles  <br>See also the [Guide to Group Roles & Maximizing Performance](https://learningcommons.yorku.ca/wp-content/uploads/2021/01/Guide-Group-Roles.pdf) |    
