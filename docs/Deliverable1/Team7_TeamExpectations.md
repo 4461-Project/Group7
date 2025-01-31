@@ -28,8 +28,7 @@ These define what group members expect from one another and what norms they agre
 | --- |
 |     |
 
-| Group Roles  <br>See also the [Guide to Group Roles & Maximizing Performance](https://learningcommons.yorku.ca/wp-content/uploads/2021/01/Guide-Group-Roles.pdf) |     |     |
-| --- |     |     | --- | --- |
+| Group Roles  <br>See also the [Guide to Group Roles & Maximizing Performance](https://learningcommons.yorku.ca/wp-content/uploads/2021/01/Guide-Group-Roles.pdf) |    
 | **Group Member**      | **Group Role**                          | **Scope of Role**                                                                                                                                      |
 |------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hyunji Yun            | Facilitator/Monitor, Devil’s Advocate  | Sets group goals, monitors progress, resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Proposes alternatives, adjusts the direction of discussions, and improves ideas. |
