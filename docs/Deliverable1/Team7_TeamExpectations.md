@@ -57,7 +57,7 @@ These define what group members expect from one another and what norms they agre
 | Team Member’s Name | Team Member’s Signature |
 | --- | --- |
 | If team members cannot add signatures in-person, a group can agree that each member typing their name in the signature section suffices as agreement |     |
-|     |     |
+|Hyunji Yun     |Hyunji Yun     |
 |     |     |
 |     |     |
 |     |     |
