@@ -27,4 +27,3 @@ Woolley, S. C., & Howard, P. N. (2019). *Computational propaganda: Political par
 
 ---
 
-*Note: Ensure this document is located under the `Deliverable1` subdirectory and is properly formatted for easy conversion to PDF when needed.*
