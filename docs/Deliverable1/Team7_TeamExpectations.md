@@ -8,11 +8,10 @@ Include group members’ preferred and backup choices for communication and list
 |Peng Qiu   |Email     |Discord: peng1314yyds     |pengqiu12620@gmail.com     |6476712756     |
 |Sanchita Chowdhury     |Email   | Discord: summer_27  | sanchita.c27@gmail.com  |6475151968     |
 
-| Goals |
-| - Based on the Boid Flocking model, successfully simulate the collaborative behaviour of social robots on social media platforms.
+# Goals 
+- Based on the Boid Flocking model, successfully simulate the collaborative behaviour of social robots on social media platforms.
 - Submit high-quality documents and codes to ensure that the assignment meets the course requirements.
-- Improve communication and problem-solving skills through teamwork. |
-|     |
+- Improve communication and problem-solving skills through teamwork.
 
 # Ground Rules
 
