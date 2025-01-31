@@ -30,12 +30,12 @@ These define what group members expect from one another and what norms they agre
 
 | Group Roles  <br>See also the [Guide to Group Roles & Maximizing Performance](https://learningcommons.yorku.ca/wp-content/uploads/2021/01/Guide-Group-Roles.pdf) |     |     |
 | --- |     |     | --- | --- |
-| Group Member | **Group Role** | **Scope of Role** |
-|Hyunji Yun     |Facilitator/Monitor, Devil’s Advocate      |Sets group goals, and monitors progress. Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Proposes alternatives, adjusts the direction of discussions, and improves ideas.     |
-|Peng Qiu     |Facilitator/Monitor, Note Keeper/Timekeeper      |Sets group goals, and monitors progress.  Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Records meeting notes and manages project schedules.     |
-|Sanchita Chowdhury     |Facilitator/Monitor, Checker/Editor      |Sets group goals, and monitors progress.  Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Reviews work, edits reports, and organizes materials.     |
-|     |     |     |
-|     |     |     |
+| **Group Member**      | **Group Role**                          | **Scope of Role**                                                                                                                                      |
+|------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hyunji Yun            | Facilitator/Monitor, Devil’s Advocate  | Sets group goals, monitors progress, resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Proposes alternatives, adjusts the direction of discussions, and improves ideas. |
+| Peng Qiu              | Facilitator/Monitor, Note Keeper/Timekeeper | Sets group goals, monitors progress, resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Records meeting notes and manages project schedules. |
+| Sanchita Chowdhury    | Facilitator/Monitor, Checker/Editor    | Sets group goals, monitors progress, resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Reviews work, edits reports, and organizes materials. |
+
 
 # Deliverables & Deadlines
 
