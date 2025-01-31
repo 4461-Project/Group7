@@ -33,24 +33,37 @@ These define what group members expect from one another and what norms they agre
 | Group Roles  <br>See also the [Guide to Group Roles & Maximizing Performance](https://learningcommons.yorku.ca/wp-content/uploads/2021/01/Guide-Group-Roles.pdf) |     |     |
 | --- |     |     | --- | --- |
 | Group Member | **Group Role** | **Scope of Role** |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+|Hyunji Yun     |Facilitator/Monitor, Devil’s Advocate      |Sets group goals, and monitors progress. Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Proposes alternatives, adjusts the direction of discussions, and improves ideas.     |
+|Peng Qiu     |Facilitator/Monitor, Note Keeper/Timekeeper      |Sets group goals, and monitors progress.  Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Records meeting notes and manages project schedules.     |
+|Sanchita Chowdhury     |Facilitator/Monitor, Checker/Editor      |Sets group goals, and monitors progress.  Resolves conflicts among members, gathers feedback, and maintains a positive team atmosphere. Reviews work, edits reports, and organizes materials.     |
 |     |     |     |
 |     |     |     |
 
 # Deliverables & Deadlines
 
-| Deliverable | Deadline | Lead(s) |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| Deliverable | Deadline          | Lead(s) |
+|-------------|-------------------|---------|
+| DEL 1.A: Team Expectations Document | Fri Jan 31         |         |
+| DEL 1.B: Proposal                 | Fri Jan 31         |         |
+| DEL 1.C: Group member peer evaluation & individual reflection | Fri Jan 31         |         |
+| DEL 2.A: In-class presentation    | Wed Feb 12 (CM12)  |         |
+| DEL 2.B: Written materials & Early Prototype | Wed Feb 12, midnight |         |
+| DEL 2.C: Provide peer feedback (other team presentations) | Wed Feb 12, midnight |         |
+| DEL 2.D: Group member peer evaluation & individual reflection | Wed Feb 12, midnight |         |
+| DEL 3.A: Video Demo               | Sun Mar 16, midnight |         |
+| DEL 3.B: Functional Prototype     | Sun Mar 16, midnight |         |
+| DEL 3.C: Report: Preliminary Draft | Sun Mar 16, midnight |         |
+| DEL 3.D: Group member peer evaluation & individual reflection | Sun Mar 16, midnight |         |
+| DEL 4.A: Functional Prototype     | Mon Mar 31, midnight |         |
+| DEL 4.B: Final Report             | Mon Mar 31, midnight |         |
+| DEL 4.C: Final Presentation       | Wed Mar 26 & Mon Mar 31 (CM22 & CM23) |         |
+| DEL 4.D: Provide peer feedback (other team presentations) | Wed Mar 26 & Mon Mar 31 (CM22 & CM23) |         |
+| DEL 4.E: Group member peer evaluation & individual reflection | Mon Mar 31, midnight |         |
+
 
 | Performance Agreement<br><br>Considers how the group will address non-performance of what is agreed to. Whatever the group agrees upon should correspond to the impact or gravity of the issues at hand. |
 | --- |
-|     |
+|If non-performance continues without a valid reason, an official warning will be issued to the team member. If the issue persists despite the warning, the matter will be reported to the professor to seek further resolution.     |
 
 # Signatures to the Agreement
 
