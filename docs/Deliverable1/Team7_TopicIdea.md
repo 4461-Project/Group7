@@ -1,4 +1,4 @@
-# **Catchy Project Title**
+# **Boid Flocking**
 
 ## **Team Members**
 - Hyunji Yun
