@@ -8,7 +8,7 @@ Include group members’ preferred and backup choices for communication and list
 | --- | --- | --- | --- | --- |
 |Hyunji Yun |Email     |Discord: skrudnf    |yhj7666@gmail.com     |4163056056     |
 |Peng Qiu   |Email     |Discord: peng1314yyds     |pengqiu12620@gmail.com     |6476712756     |
-|Sanchita Chowdhury     |     |     |     |     |
+|Sanchita Chowdhury     |Discord: summer_27     | sanchita.c27@gmail.com    | 6475151968    |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
 
