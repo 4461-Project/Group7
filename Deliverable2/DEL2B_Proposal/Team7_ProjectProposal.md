@@ -18,6 +18,9 @@ This study analyzes how social media bots distorted online discussions during th
 
 Bessi, A., & Ferrara, E. (2016). Social bots distort the 2016 U.S. presidential election online discussion. First Monday, 21(11). https://doi.org/10.5210/fm.v21i11.7090
 
+This study analyzed tweets during the 2017 Catalan referendum and found that nearly a third of the accounts were social media bots. These social bots spread a lot of negative content, such as police violence and dictatorship, targeting the views of independent leaders. Based on network analysis, it shows that social bots increased polarization by synchronizing negative replies. Based on sentiment analysis, it shows that social bots increased panic, fear, and condemnation during the voting period by promoting news headlines. As a result, the sentiment value of the pro-independence community plummeted. Therefore, this action changed public opinion and undermined the integrity and fairness during the referendum.
+
+Stella, M., Ferrara, E., & De Domenico, M. (2018). Bots increase exposure to negative and inflammatory content in online social systems. Proceedings of the National Academy of Sciences, 115(49), 12435–12440. https://doi.org/10.1073/pnas.1803470115
 ## **Section 3: Describe the Core Components of the Simulation**
 
 ## **Section 4: Simulation Anticipated Outcomes**
