@@ -38,16 +38,16 @@ Goal: Increase visibility of targeted content, limit/hide opposing views, and in
 NetworkX Analogy: Similar to the Boid Flocking Model, social bots operate using alignment , cohesion, and separation
 
 (3.2) Affordances of the Content
-Tagging & Hashtags: Bots exploit hashtags to amplify specific topics.
-Sharing & Retweeting: Bots spread content in a quick manner to increase its visibility.
-Up/Down Voting: Bots manipulate engagement metrics
-Emotional Manipulation: Bots generate and spread content designed to promote strong reactions such as fear, anger etc.
-NetworkX Analogy: Similar to how a computer virus affects a network Model, by spreading across nodes, bots spread influence through interactions, boosting content visibility and controlling discourse.
+Tagging & Hashtags: Bots exploit hashtags to amplify specific topics. <br>
+Sharing & Retweeting: Bots spread content in a quick manner to increase its visibility.<br>
+Up/Down Voting: Bots manipulate engagement metrics <br>
+Emotional Manipulation: Bots generate and spread content designed to promote strong reactions such as fear, anger etc. <br>
+NetworkX Analogy: Similar to how a computer virus affects a network Model, by spreading across nodes, bots spread influence through interactions, boosting content visibility and controlling discourse. <br>
 
 (3.3) Algorithms Involved
-Recommendation Algorithms: Social media platforms prioritize content based on engagement. Bots artificially inflate engagement.
-Content Prioritization: Algorithms highlight trending content, which bots can manipulate.
-Filter Bubbles: Repeated interactions with bot-influenced content create echo chambers.
+Recommendation Algorithms: Social media platforms prioritize content based on engagement. Bots artificially inflate engagement.<br>
+Content Prioritization: Algorithms highlight trending content, which bots can manipulate.<br>
+Filter Bubbles: Repeated interactions with bot-influenced content create echo chambers.<br>
 
 
 
