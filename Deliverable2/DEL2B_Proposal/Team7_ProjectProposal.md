@@ -57,15 +57,18 @@ Filter Bubbles: Repeated interactions with bot-influenced content create echo ch
 
 
 Below are simulation drafts of our phenomena of interest:
+
 1st graph : Entities (Humans & Social Bots)
 Red nodes  are social Bots
 Blue nodes are human Users
 Edges represent social interactions.
 Bots form clusters, amplifying messages and manipulating discussions/engagements.
+
 2nd graph : Affordances (Content Interaction)
 Simulates social media actions (e.g., Liking, Sharing, Retweeting, Up/Down Voting).
 Shows how content flows through the network.
 Users interact based on platform affordances.
+
 3rd graph: Algorithms (Prioritizing engagement)
 Bot engagement grows exponentially (represented by the red dashed line on the graph).
 Human engagement is growing much slower (represented by the Blue solid line).
