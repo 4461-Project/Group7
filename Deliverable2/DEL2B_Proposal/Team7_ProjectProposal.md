@@ -23,4 +23,32 @@ This study analyzed tweets during the 2017 Catalan referendum and found that nea
 Stella, M., Ferrara, E., & De Domenico, M. (2018). Bots increase exposure to negative and inflammatory content in online social systems. Proceedings of the National Academy of Sciences, 115(49), 12435–12440. https://doi.org/10.1073/pnas.1803470115
 ## **Section 3: Describe the Core Components of the Simulation**
 
+Our simulation is inspired by the Boid Flocking Model from NetworkX, which showcases how simple rules can cause coordinated group behavior. Just like how birds and fish move together in a group, social bots on media platforms coordinate actions like amplifying content, creating fake consensus, and diluting opposing views.
+
+Entities: Humans and Social Bots
+Humans:
+Role: Regular social media users who consume and interact with content.
+Behavior: Like, share, comment, and post original content. Their engagement influences algorithmic recommendations.
+Goal: Access information, express opinions, and participate in discussions.
+Social Bots:
+Role: Automated agents designed to manipulate content distribution.
+Behavior: Like, share, and post content in a coordinated manner to amplify specific sides of a story.
+Goal: Increase visibility of targeted content, limit/hide opposing views, and influence public opinion.
+NetworkX Analogy: Similar to the Boid Flocking Model, social bots operate using alignment , cohesion, and separation
+
+3.2 Affordances of the Content
+Tagging & Hashtags: Bots exploit hashtags to amplify specific topics.
+Sharing & Retweeting: Bots spread content in a quick manner to increase its visibility.
+Up/Down Voting: Bots manipulate engagement metrics
+Emotional Manipulation: Bots generate and spread content designed to promote strong reactions such as fear, anger etc.
+NetworkX Analogy: Similar to how a computer virus affects a network Model, by spreading across nodes, bots spread influence through interactions, boosting content visibility and controlling discourse.
+
+3.3 Algorithms Involved
+Recommendation Algorithms: Social media platforms prioritize content based on engagement. Bots artificially inflate engagement.
+Content Prioritization: Algorithms highlight trending content, which bots can manipulate.
+Filter Bubbles: Repeated interactions with bot-influenced content create echo chambers.
+
+
+
+
 ## **Section 4: Simulation Anticipated Outcomes**
