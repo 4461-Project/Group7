@@ -53,3 +53,22 @@ Filter Bubbles: Repeated interactions with bot-influenced content create echo ch
 
 
 ## **Section 4: Simulation Anticipated Outcomes**
+![Algorithms: Content Visibility Over Time](https://github.com/4461-Project/Group7/issues/3#issue-2856662583)
+
+
+Below are simulation drafts of our phenomena of interest:
+1st graph : Entities (Humans & Social Bots)
+Red nodes  are social Bots
+Blue nodes are human Users
+Edges represent social interactions.
+Bots form clusters, amplifying messages and manipulating discussions/engagements.
+2nd graph : Affordances (Content Interaction)
+Simulates social media actions (e.g., Liking, Sharing, Retweeting, Up/Down Voting).
+Shows how content flows through the network.
+Users interact based on platform affordances.
+3rd graph: Algorithms (Prioritizing engagement)
+Bot engagement grows exponentially (represented by the red dashed line on the graph).
+Human engagement is growing much slower (represented by the Blue solid line).
+This graph showcases how algorithms prioritize engagement amplified by bots, further reinforcing their influence.
+
+
