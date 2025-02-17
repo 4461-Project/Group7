@@ -26,16 +26,16 @@ Stella, M., Ferrara, E., & De Domenico, M. (2018). Bots increase exposure to neg
 Our simulation is inspired by the Boid Flocking Model from NetworkX, which showcases how simple rules can cause coordinated group behavior. Just like how birds and fish move together in a group, social bots on media platforms coordinate actions like amplifying content, creating fake consensus, and diluting opposing views.
 
 (3.1) Entities: Humans and Social Bots
-Humans:
-Role: Regular social media users who consume and interact with content.
-Behavior: Like, share, comment, and post original content. Their engagement influences algorithmic recommendations.
-Goal: Access information, express opinions, and participate in discussions.
+Humans: <br>
+Role: Regular social media users who consume and interact with content. <br>
+Behavior: Like, share, comment, and post original content. Their engagement influences algorithmic recommendations. <br>
+Goal: Access information, express opinions, and participate in discussions.<br>
 
-Social Bots:
-Role: Automated agents designed to manipulate content distribution.
-Behavior: Like, share, and post content in a coordinated manner to amplify specific sides of a story.
-Goal: Increase visibility of targeted content, limit/hide opposing views, and influence public opinion.
-NetworkX Analogy: Similar to the Boid Flocking Model, social bots operate using alignment , cohesion, and separation
+Social Bots:<br>
+Role: Automated agents designed to manipulate content distribution.<br>
+Behavior: Like, share, and post content in a coordinated manner to amplify specific sides of a story.<br>
+Goal: Increase visibility of targeted content, limit/hide opposing views, and influence public opinion.<br>
+NetworkX Analogy: Similar to the Boid Flocking Model, social bots operate using alignment , cohesion, and separation <br>
 
 (3.2) Affordances of the Content
 Tagging & Hashtags: Bots exploit hashtags to amplify specific topics. <br>
