@@ -25,7 +25,7 @@ Stella, M., Ferrara, E., & De Domenico, M. (2018). Bots increase exposure to neg
 
 Our simulation is inspired by the Boid Flocking Model from NetworkX, which showcases how simple rules can cause coordinated group behavior. Just like how birds and fish move together in a group, social bots on media platforms coordinate actions like amplifying content, creating fake consensus, and diluting opposing views.
 
-(3.1) Entities: Humans and Social Bots
+(3.1) Entities: Humans and Social Bots <br>
 Humans: <br>
 Role: Regular social media users who consume and interact with content. <br>
 Behavior: Like, share, comment, and post original content. Their engagement influences algorithmic recommendations. <br>
