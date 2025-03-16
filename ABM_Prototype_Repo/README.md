@@ -3,13 +3,8 @@
 ## Overview
 This project simulates the influence of AI-driven social bots in online social networks using an Agent-Based Modeling (ABM) approach with the Mesa framework. The goal is to explore how bots amplify engagement, manipulate discussions, and influence human users through algorithmic prioritization.
 
-## Key Features
-- ✅ **Social Network Graph**: Humans (blue) and Bots (red) interact in a dynamic network.
-- ✅ **Content Interaction Simulation**: Simulates likes, shares, and retweets.
-- ✅ **Algorithmic Influence**: Shows how bots boost engagement through platform algorithms.
-- ✅ **Data Logging**: Records interactions in `interaction_log.csv`.
-- ✅ **Agent-Based Modeling**: Uses **Mesa** for simulation and interaction scheduling.
-- ✅ **Visualization**: Generates network graphs, interaction charts, and engagement trend analysis.
+## The core elements of the model:
+- Two agent types: **Human agents** (blue) and **Bot agents** (red/gray)
 
 ## How to Run
 
