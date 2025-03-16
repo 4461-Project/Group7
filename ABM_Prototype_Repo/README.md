@@ -5,70 +5,72 @@ This project simulates the influence of AI-driven social bots in online social n
 
 ## The core elements of the model:
 - Two agent types: **Human agents** (blue) and **Bot agents** (red/gray)
+- A **network structure**, where nodes represent agents and edges represent social media connections.
+- **Bot agents** aim to increase influence by interacting with human agents and amplifying content visibility.
+- **Human agents** respond organically and are influenced by bot interactions.
+- After the 10th step of the simulation, a user-defined number of bots are **"removed"**, and the color of their nodes changes from **red to gray**. These bots no longer participate in interactions.
+- A **RandomActivation scheduler** is used to model unpredictable real-world engagement patterns.
+- The model supports **interactive sliders** to adjust:
+  - Number of humans
+  - Number of bots
+  - Number of removed bots after step 10
+- **Data collection and visualization** features are included:
+  - Engagement data (bot vs human)
+  - Average influence per agent type
+  - Real-time network graph and influence charts
+
+The prototype successfully demonstrates foundational interaction dynamics between bots and humans in a network environment.
+
+---
 
 ## How to Run
 
 1. **Install dependencies**  
-   Ensure you have Python 3.8+ installed, then install required packages:
+   Ensure you have Python 3.7+ installed, then install required packages:
    ```
    pip install -r requirements.txt
    ```
 2. **Run Simulation**  
    Navigate to the source directory and execute the script:
    ```
-   cd src
-   python run.py
+   python src/simulation.py
    ```
    After running, the simulation will generate:
-   - **A visualization** of the social network.
-   - **`interaction_log.csv`**, which logs agent interactions.
+   - **A real-time visualization** of the social network.
+   - **Dynamic charts** showing engagement (bot vs human) and average per agent.
 
-## Code Overview
+3. **Interface Usage**
+   - Control the number of human agents, bot agents, and removed bots in the sliders.
+   - Observe the **network graph** and **engagement/infulence charts**
+   - Removed bots will be appear in **grey color** after step 10.
 
-The project follows an **Agent-Based Modeling (ABM) structure**, implemented using `Mesa`.
-
-### **Key Components:**
-- `UserAgent`: Represents human users and bots, each with unique behavior.
-- `SocialNetworkModel`: The core simulation model managing agent interactions and scheduling.
-- `RandomActivation`: Ensures agents take actions in a randomized sequence to simulate realistic interaction.
-- `interaction_log.csv`: Captures engagement data at each simulation step.
-
-## Directory Structure
-<pre>
-project_root/
-│── src/               # Source code
-│   ├── run.py        # Main simulation script
-│── docs/              # Documentation
-│── notebooks/         # Jupyter Notebooks (if any analysis needed)
-│── requirements.txt   # Python dependencies
-│── README.md          # Project documentation (this file)
-│── interaction_log.csv # Data logs of interactions
-</pre>
-
-## Simulation Output
-
-### **Example: `interaction_log.csv`**
-```
-timestep,user_id,interaction_type,target_id
-1,Human_1,like,Bot_3
-2,Bot_2,retweet,Human_5
-3,Human_4,share,Bot_1
-```
-This dataset helps analyze bot influence over time.
 
 ## Limitations & Planned Improvements
 
-### **Current Features**
+### **Limitations**
 
-- ✅ Basic social network graph with human users and bots.
-- ✅ Simulated content interactions (likes, shares, retweets).
-- ✅ Algorithm-based prioritization (exponential bot influence growth).
-- ✅ Data logging of interactions.
-- ✅ Visualization of agent interactions and engagement trends.
+- Limited intervention modeling (only basic bot removal).
+- No scenario comparison (bots vs. partial/no bots).
+- Simple influence metrics (no duration or visibility tracking).
+- Lack of visualizations for comparing engagement cases.
+- Basic bot behavior (no clustering or adaptive strategies).
 
 ### **Planned Improvements**
 
-- 🔹 Improve bot behavior (targeting influential users more effectively).
-- 🔹 Advanced visualization (interactive network & detailed metrics).
-- 🔹 Enhanced data analysis (user engagement patterns, sentiment impact).
-- 🔹 Implement adaptive bot strategies to simulate real-world behavior more accurately.
+- Test intervention models (e.g., filter bot engagement).
+- Add scenario-based visualizations (bots / partial / no bots).
+- Expand influence metrics (duration & visibility).
+- Compare bot-boosted vs. human-generated content impact.
+- Improve bot strategies (e.g., clustering, targeting).
+  
+## Directory Structure
+<pre>
+ABM_Prototype_Repo/
+├── docs/                # Documentation
+│   └── interim_report.md
+├── notebooks/           # Jupyter Notebooks (if any analysis needed)
+├── src/                 # Source code
+│   └── simulation.py    # Main simulation script
+├── README.md            # Project documentation (this file)
+├── requirements.txt     # Python dependencies
+</pre>
