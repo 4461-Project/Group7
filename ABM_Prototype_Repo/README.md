@@ -19,15 +19,30 @@ This project simulates the influence of AI-driven social bots in online social n
    pip install -r requirements.txt
    ```
 2. **Run Simulation**  
-    ```
-    cd src
-    python run.py
-    ```
+   Navigate to the source directory and execute the script:
+   ```
+   cd src
+   python run.py
+   ```
+   After running, the simulation will generate:
+   - **A visualization** of the social network.
+   - **`interaction_log.csv`**, which logs agent interactions.
 
-# Directory Structure
+## Code Overview
+
+The project follows an **Agent-Based Modeling (ABM) structure**, implemented using `Mesa`.
+
+### **Key Components:**
+- `UserAgent`: Represents human users and bots, each with unique behavior.
+- `SocialNetworkModel`: The core simulation model managing agent interactions and scheduling.
+- `RandomActivation`: Ensures agents take actions in a randomized sequence to simulate realistic interaction.
+- `interaction_log.csv`: Captures engagement data at each simulation step.
+
+## Directory Structure
 <pre>
 project_root/
 │── src/               # Source code
+│   ├── run.py        # Main simulation script
 │── docs/              # Documentation
 │── notebooks/         # Jupyter Notebooks (if any analysis needed)
 │── requirements.txt   # Python dependencies
@@ -35,9 +50,20 @@ project_root/
 │── interaction_log.csv # Data logs of interactions
 </pre>
 
-# Limitations & Planned Improvements
+## Simulation Output
 
-## Current Features
+### **Example: `interaction_log.csv`**
+```
+timestep,user_id,interaction_type,target_id
+1,Human_1,like,Bot_3
+2,Bot_2,retweet,Human_5
+3,Human_4,share,Bot_1
+```
+This dataset helps analyze bot influence over time.
+
+## Limitations & Planned Improvements
+
+### **Current Features**
 
 - ✅ Basic social network graph with human users and bots.
 - ✅ Simulated content interactions (likes, shares, retweets).
@@ -45,7 +71,7 @@ project_root/
 - ✅ Data logging of interactions.
 - ✅ Visualization of agent interactions and engagement trends.
 
-## Planned Improvements
+### **Planned Improvements**
 
 - 🔹 Improve bot behavior (targeting influential users more effectively).
 - 🔹 Advanced visualization (interactive network & detailed metrics).
