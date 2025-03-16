@@ -1,2 +1,6 @@
-mesa==1.2.1
+mesa
 networkx
+matplotlib
+numpy
+seaborn
+pandas
