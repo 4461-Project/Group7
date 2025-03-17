@@ -1,7 +1,7 @@
 ## Key Observations at Different Simulation Stages
 
 ### Figure 1 & 2 (Step 9)
-![Step 9 - Network View](docs/images/step9_1.png)
+![Step 9 - Network View](./images/step9_1.png)
 ![Step 9 - Engagement Graphs](docs/images/step9_2.png)
 
 - In the early stage of the simulation, **bots (red)** and **humans (blue)** actively interact within the network.
