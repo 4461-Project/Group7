@@ -1,8 +1,8 @@
 ## Key Observations at Different Simulation Stages
 
-### Figure 1 & 2 (Step 9)
+### Step 9
 ![Step 9 - Network View](./images/step9_1.png)
-![Step 9 - Engagement Graphs](docs/images/step9_2.png)
+![Step 9 - Engagement Graphs](./images/step9_2.png)
 
 - In the early stage of the simulation, **bots (red)** and **humans (blue)** actively interact within the network.
 - The graphs show that **bot engagement increases much faster** than human engagement, indicating that bots initially dominate content amplification.
@@ -10,9 +10,9 @@
 
 ---
 
-### Figure 3 & 4 (Step 30)
-![Step 30 - Network View](docs/images/step30_1.png)
-![Step 30 - Engagement Graphs](docs/images/step30_2.png)
+### Step 30
+![Step 30 - Network View](./images/step30_1.png)
+![Step 30 - Engagement Graphs](./images/step30_2.png)
 
 - After **Step 10**, a user-defined number of **bots are deactivated (gray)** and no longer participate in the simulation.
 - This change is reflected in the graphs — **bot engagement growth flattens**, while **human engagement continues to rise steadily**.
@@ -20,9 +20,9 @@
 
 ---
 
-### Figure 5 & 6 (Step 101)
-![Step 101 - Network View](docs/images/step101_1.png)
-![Step 101 - Engagement Graphs](docs/images/step101_2.png)
+### Step 101
+![Step 101 - Network View](./images/step101_1.png)
+![Step 101 - Engagement Graphs](./images/step101_2.png)
 
 - Over time, **bot engagement slows down**, while **human influence and participation continue to grow**.
 - These trends suggest that **while bots initially drive engagement**, humans eventually take over **content dynamics** in the long run.
