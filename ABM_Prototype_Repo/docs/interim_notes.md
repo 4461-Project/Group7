@@ -1,4 +1,4 @@
-## Key Observations at Different Simulation Stages
+## Interim Results
 
 ### Step 9
 ![Step 9 - Network View](./images/step9_1.png)
@@ -29,7 +29,7 @@
 
 ---
 
-## Planned Enhancements
+## Next Steps
 
 - **Expand Influence Metrics**  
   Track how long bot-driven content remains influential and measure content spread over time.
