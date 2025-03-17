@@ -68,6 +68,7 @@ The prototype successfully demonstrates foundational interaction dynamics betwee
 ABM_Prototype_Repo/
 ├── docs/                # Documentation
 │   └── interim_report.md
+│   └── images          
 ├── notebooks/           # Jupyter Notebooks (if any analysis needed)
 ├── src/                 # Source code
 │   └── simulation.py    # Main simulation script
