@@ -6,11 +6,26 @@ This simulation models **coordinated bot behavior** in digital media ecosystems,
 
 The phenomenon being modeled is **engagement hijacking**, where bots collaborate to inflate content popularity and create the illusion of consensus. This behavior is especially relevant in platforms like X (formerly Twitter), Instagram, and Facebook, where recommendation algorithms amplify high-engagement content. 
 
-# B. How to Run the Simulation :
+## How to Run
 
-# Requirements
-- Python 3.8+
-- Recommended: virtual environment ( IDE : VS Code or any other IDE)
+1. **Install dependencies**  
+   Ensure you have Python 3.7+ installed, then install required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+2. **Run Simulation**  
+   Navigate to the source directory and execute the script:
+   ```
+   python src/simulation.py
+   ```
+   After running, the simulation will generate:
+   - **A real-time visualization** of the social network.
+   - **Dynamic charts** showing engagement (bot vs human) and average per agent.
+
+3. **Interface Usage**
+   - Control the number of human agents, bot agents, and removed bots in the sliders.
+   - Observe the **network graph** and **engagement/infulence charts**
+   - Removed bots will be appear in **grey color** after step 10.
 
 # Key Findings: 
 
