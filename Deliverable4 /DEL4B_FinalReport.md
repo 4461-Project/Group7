@@ -15,11 +15,11 @@ The simulation examines how bots influence human engagement and content visibili
 
 ### 1.4 Visual Illustration of the Phenomenon
 ![Figure A](./images/1.png)
-- **Figure A** – Timestep 0: Bots (red) and humans (blue) actively interact.
+- **Figure A** – Timestep 0: Bots (Orange) and humans (Green) actively interact.
 ![Figure B](./images/2.png) 
 - **Figure B** – Timestep 14: Deactivated bots shown in gray after step 10.
 ![Figure C](./images/3.png) 
-- **Figure C** – Graph: Bot engagement rises rapidly, then flattens post-deactivation while human engagement grows.
+- **Figure C** – Graph: Demonstrates a feedback loop where bots initiate content engagement, and humans amplify it further, resulting in rising engagement on both sides.
 ![Figure B](./images/4.png)  
 - **Figure D** – Graph: Initial bot influence is higher; human influence rises after bots are removed.
 ![Figure B](./images/5.png)  
