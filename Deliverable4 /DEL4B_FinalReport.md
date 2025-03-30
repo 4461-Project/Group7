@@ -14,14 +14,18 @@ The simulation examines how bots influence human engagement and content visibili
 - **Scenario Flexibility**: Enables testing of bot-to-human ratios in a controlled environment.
 
 ### 1.4 Visual Illustration of the Phenomenon
-![Figure A](./images/9_1.png)
-- **Figure A** – Timestep 9: Bots (red) and humans (blue) actively interact.
-![Figure B](./images/30_1.png) 
-- **Figure B** – Timestep 30: Deactivated bots shown in gray after step 10.
-![Figure C](./images/30_2.png) 
+![Figure A](./images/1.png)
+- **Figure A** – Timestep 0: Bots (red) and humans (blue) actively interact.
+![Figure B](./images/2.png) 
+- **Figure B** – Timestep 14: Deactivated bots shown in gray after step 10.
+![Figure C](./images/3.png) 
 - **Figure C** – Graph: Bot engagement rises rapidly, then flattens post-deactivation while human engagement grows.
-![Figure B](./images/20_3.png)  
+![Figure B](./images/4.png)  
 - **Figure D** – Graph: Initial bot influence is higher; human influence rises after bots are removed.
+![Figure B](./images/5.png)  
+- **Figure E** –
+![Figure B](./images/6.png)  
+- **Figure F** –
 
 ---
 
