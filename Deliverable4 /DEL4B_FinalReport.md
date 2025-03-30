@@ -133,30 +133,32 @@ Network consists of:
 ## §5. Lessons Learned & Future Directions
 
 ### 5.1 Design Reflections  
-**Challenges**:  
-- Mapping edge weight to influence  
-- Simulating strategic clustering  
-- Managing visual clutter  
+During the design and development of our simulation, we encountered a few challenges. One of the first was considering whether we should map edge weights to represent influence strength. Since we used a network model where agents interact via edges, we initially wanted these edges to carry dynamic weight values — such as levels of trust or exposure. However, implementing and updating weighted edges in real-time without cluttering the simulation is  complex and unnecessary since we wanted to show the clustering/flocking behavior of the bots . So, we opted to not display any edges to better display the movement of bots in a coordinated way. 
+Another challenge we faced was , simulating strategic clustering behavior among bots. We wanted bots to show coordination by naturally flocking toward human clusters — not just randomly engaging. To achieve this, we used Boid-inspired movement patterns (alignment, cohesion, and separation), which required tuning to balance realism and performance.
+We realized that as agents moved in real-time, the network display would become overwhelming. To address this, we focused on keeping the graph simple, using color-coded nodes to help users focus on core dynamics like clustering and influence spread.
+Despite these challenges, we were  able to clearly visualize feedback loops through engagement and topic exposure charts, helping us connect simulated behavior to real-world social media platforms.
 
-**Successes**:  
-- Emergent behavior  
-- Visualized amplification loops  
 
 ### 5.2 Limitations  
-- Simplified agent decision models  
-- No content type variance  
-- Single spread method (resharing only)
+This simulation cannot perfectly replicate the real world, so it includes some simplified elements. One of the main simplifications is that both humans and bots behave in a very basic way. They follow simple rules, have limited memory, cannot deeply judge content, and do not consider emotions or social context.
+In addition, all content was treated the same. Although bots spread various types of content, the simulation did not distinguish whether the content was true, false, or provocative. Because of this, we couldn’t explore how different types of information affect people in different ways.
+Lastly, the way content spreads was also simplified. We only used direct sharing between people, and did not include other real-world methods like recommendation algorithms, trending boosts, or advertisements that are common in social media platforms.
+
 
 ### 5.3 Future Improvements  
-- Add content types: truthful, fake, inflammatory  
-- Resistance traits for humans  
-- Bot diversity (spammer vs infiltrator)  
-- Use anonymized real-world data  
+To introduce a more realistic simulation, later versions of this simulation could include a variety of refinements. For example, we could include different types of content — e.g., truthful, misleading, inflammatory posts — and observe how they spread in different ways.
+And finally, we'd like to incorporate resistance behaviors for human actors -- offering a way to challenge bot-influenced content based on individual difference, trust levels, or exposure fatigue.
+We also see value in copying bot diversity. Not every bot in the real world behaves in the same way; there are spammers and infiltrators that behave exactly like humans. Including these as types would improve the simulation and provide information on which methods are most effective or dangerous.
+Lastly, incorporating anonymized real-world data could make the simulation more representative of actual world dynamics. This would allow us to compare model behavior to actual world trends and more accurately see how interventions (e.g., bot removal or content warnings) impact network influence.
+
 
 ### 5.4 Future Applications  
-- **Policy**: Inform platform moderation strategies  
-- **Detection**: Flag bots through activity patterns  
-- **AI Governance**: Create rules and transparency for AI-driven influence  
+The results from our simulation can be helpful in many real-world areas. First, for policy and platform management, the model can help find patterns in bot behavior, decide when to take action, and see what happens when bots are removed. For example, since people don’t stop engaging right after bots are removed, it shows that early detection and action are more important than reacting after the damage is done.
+
+In terms of AI and digital safety, the simulation shows how important it is to set clear rules for how bots and automated systems can influence people. As bots get smarter, platforms also need tools to track and flag unusual behavior.
+This simulation can also help with bot detection research. For example, it can be used to train programs to recognize bots by looking at patterns like bots grouping together, repeating the same content, or causing sudden spikes in engagement.
+
+In short, even though our simulation is simple, it helps start important conversations about AI ethics, online safety, and the future of digital influence. With more improvements, it could be a useful tool for researchers, policymakers, and developers to build safer and more trustworthy online spaces.
 
 ---
 
