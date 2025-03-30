@@ -21,9 +21,9 @@ The simulation examines how bots influence human engagement and content visibili
 ![Figure C](./images/3.png) 
 - **Figure C** – Graph: Demonstrates a feedback loop where bots initiate content engagement, and humans amplify it further, resulting in rising engagement on both sides.
 ![Figure B](./images/4.png)  
-- **Figure D** – Graph: Initial bot influence is higher; human influence rises after bots are removed.
+- **Figure D** – Graph: Reveals that although bots initially hold more influence, human engagement eventually surpasses them—proving that bot-driven manipulation has lasting effects.
 ![Figure B](./images/5.png)  
-- **Figure E** –
+- **Figure E** – Visualizes how one topic often dominates due to bot coordination, illustrating how echo chambers form through repeated exposure to the same content.
 ![Figure B](./images/6.png)  
 - **Figure F** –
 
