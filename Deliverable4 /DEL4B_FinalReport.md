@@ -25,7 +25,7 @@ The simulation examines how bots influence human engagement and content visibili
 ![Figure B](./images/5.png)  
 - **Figure E** – Visualizes how one topic often dominates due to bot coordination, illustrating how echo chambers form through repeated exposure to the same content.
 ![Figure B](./images/6.png)  
-- **Figure F** –
+- **Figure F** – Step Count over 50 
 
 ---
 
